@@ -54,3 +54,4 @@ tk.Button(root, text="Converter", command=converter, bg="green", fg="white").gri
 
 # Iniciar a interface
 root.mainloop()
+
